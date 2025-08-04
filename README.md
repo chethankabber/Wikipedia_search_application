@@ -1,0 +1,1 @@
+I recently developed a web application using HTML, CSS, and JavaScript that allows users to search Wikipedia articles in real time. The project features a clean user interface, displays search results dynamically, and ensures a smooth user experience with a loading spinner. This was a great opportunity to strengthen my frontend development skills and practice working with APIs.
